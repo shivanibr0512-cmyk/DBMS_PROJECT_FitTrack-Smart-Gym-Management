@@ -3,7 +3,7 @@
 A Next.js starter app for the DBMS Level 3 project. It reuses the existing MySQL database (`fittrack_db`) and uses MongoDB for flexible workout progress logs.
 
 
-## 👥 Team Members
+## Team Members
 
 | Name | SRN |
 |---|---|
