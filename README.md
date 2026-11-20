@@ -2,6 +2,14 @@
 
 A Next.js starter app for the DBMS Level 3 project. It reuses the existing MySQL database (`fittrack_db`) and uses MongoDB for flexible workout progress logs.
 
+
+## 👥 Team Members
+
+| Name | SRN |
+|---|---|
+| SHIVANI BR | PES1UG24CS439 |
+| SHRIHARI NAGESH | PES1UG24CS445 |
+
 ## What is included
 
 - MySQL dashboard counts and completed-payment total
